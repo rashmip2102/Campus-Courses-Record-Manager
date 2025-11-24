@@ -72,4 +72,10 @@ Ensure the CSV files are available at:
 Compile the Java source files in your IDE or use build tools like Maven/Gradle if configured.
 
 4. Run the Application
-Run the main class `edu.ccrm.cli.CCRMApp`. The application loads data from the CSV 
+Run the main class `edu.ccrm.cli.CCRMApp`. The application loads data from the CSV
+
+
+### Screenshots
+
+"C:\Users\rashm\OneDrive\Pictures\Screenshots\Screenshot 2025-11-25 014528.png"
+"C:\Users\rashm\OneDrive\Pictures\Screenshots\Screenshot 2025-11-25 014618.png"
