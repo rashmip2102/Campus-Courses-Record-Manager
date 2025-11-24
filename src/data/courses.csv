@@ -1,0 +1,14 @@
+code,title,credits,Instructor,semester,department
+CSE2001,Object Oriented Programming in C++,4,Dr. ABC,WINTER,SCOPE
+CSE1021,An Introduction to Programming in Python,4,Dr. DEF,INTERIM,SCOPE
+MAT1003,Calculus,4,Dr.GHI,INTERIM,SASL
+PHY1003,An Introduction to Computational Physics,4,Dr.JKL,INTERIM,SASL
+CHY1005,An Introduction to Computational Chemistry,4,Dr.MNO,WINTER,SASL
+CSA2001,Fundamentals of AI/ML,4,Dr.PQR,WINTER,SCAI
+CSE3001,Database Management Systems,4,Dr.STU,FALL,SCOPE
+CSE2006,Programming in Java,3,Dr.VWX,FALL,SCOPE
+CSE2002,Data Structure and Algorithms,4,Dr.YZA,FALL,SCOPE
+MAT2005,Transform Techniques and Difference Equations,3,Dr.BCD,WINTER,SASL
+MAT3002,Applied Linear Algebra,3,Dr.EFG,FALL,SASL
+ENG1004,Effective Technical Communication,2,Dr.HIJ,INTERIM,SASL
+ENG2005,Advance Technical Communication,2,Dr.KLM,WINTER,SASL
