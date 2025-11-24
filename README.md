@@ -59,7 +59,7 @@ Developers write code → JDK compiles code → JVM runs compiled bytecode with 
 ---
 
 1. Clone or Open the Project
-   Repository Link: https://github.com/atharvadixit677/CampusCoursesRecordsManager
+   Repository Link: https://github.com/rashmip2102/Campus-Courses-Record-Manager
    Open the project in your IDE.
 
 2. Place CSV Files
